@@ -2,7 +2,7 @@
 
 > Syncretic project for the **Digital Integrated Circuits** course  
 > Faculty of Electronics, Telecommunications & Information Technology — Universitatea Politehnica Timișoara  
-> Year 2 · 2024–2025
+> Year 2 · 2025–2026
 
 ---
 
