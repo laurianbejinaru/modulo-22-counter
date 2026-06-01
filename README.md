@@ -50,7 +50,7 @@ modulo-22-counter/
 │   └── *.PcbDoc                      # Altium PCB source file
 ├── simulation/
 │   ├── simulation_waveforms.png      # PSpice transient simulation (Q1–Q5 + RESET)
-│   └── *.opj / *.cir                 # OrCAD PSpice project files
+│   └── *.opj                         # OrCAD PSpice project files
 └── README.md
 ```
 
