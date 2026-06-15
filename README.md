@@ -111,4 +111,5 @@ The simulation confirms the counter correctly resets after 22 clock pulses with 
 **Bejinaru Laurian Giorgian**  
 Student — Electronics, Telecommunications & Information Technology  
 Universitatea Politehnica Timișoara  
-📧 laurian.bejinaru@student.upt.ro
+📧 laurian.bejinaru@gmail.com
+
