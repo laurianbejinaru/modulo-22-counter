@@ -31,8 +31,8 @@ The project covers the full design flow: **schematic → PCB layout → simulati
 | Component | Function |
 |-----------|----------|
 | CD4024BE | 7-stage binary ripple counter |
-| CD4073 | Triple 3-input AND gate (RESET logic) |
-| CD4069 | Hex inverter (RESET logic) |
+| CD4023 | Triple 3-input AND gate (RESET logic) |
+| CD40106 | Hex inverter (RESET logic) |
 | IN4001 | Rectifier diode (power supply) |
 | Voltage regulator | 5V supply stabilization |
 
